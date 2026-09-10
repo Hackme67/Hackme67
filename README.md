@@ -69,11 +69,11 @@ Hands-on SOC lab focused on detecting and investigating simulated attacks in a W
 * Incident reporting
 * Security remediation
 
-🔗 **Repository:** [Windows Attack Detection Lab](https://github.com/Hackme67/windows-attack-detection-lab)
+🔗 **Repository:** [Windows Attack Detection Lab](https://github.com/Hackme67/Windows-Attack-Detection-Incident-Investigation-Lab)
 
 ---
 
-### 🔴 Penetration Testing Lab – Vulnerable VM Assessment
+### 🔴 Penetration Testing Lab – Vulnerable VM 
 
 Authorized penetration-testing assessment performed against a vulnerable virtual machine in a controlled laboratory environment.
 
@@ -90,11 +90,11 @@ Authorized penetration-testing assessment performed against a vulnerable virtual
 * Security findings and remediation
 * Professional penetration-testing reporting
 
-🔗 **Repository:** [Penetration Testing Lab](https://github.com/Hackme67/Pentest_VM-Lab)
+🔗 **Repository:** [Penetration Testing Lab](https://github.com/Hackme67/Penetration-Testing-Lab-Vulnerable-VM)
 
 ---
 
-### 🎯 CTF Vulnerable Machine Assessment
+### 🎯 CTF Vulnerable Machine 
 
 Hands-on vulnerable-machine assessment demonstrating an end-to-end offensive security workflow.
 
@@ -109,7 +109,7 @@ Hands-on vulnerable-machine assessment demonstrating an end-to-end offensive sec
 * Proof of compromise
 * Technical documentation
 
-🔗 **Repository:** [CTF Machine](https://github.com/Hackme67/CTF-Machine-1)
+🔗 **Repository:** [CTF Machine](https://github.com/Hackme67/CTF-Vulnerable-Machine)
 
 ---
 
